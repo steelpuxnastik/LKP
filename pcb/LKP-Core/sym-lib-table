@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name private)(type Legacy)(uri ${KIPRJMOD}/private.lib)(options "")(descr ""))
+  (lib (name "private")(type "Legacy")(uri "${KIPRJMOD}/private.lib")(options "")(descr ""))
+  (lib (name "LKP-Core-rescue")(type "Legacy")(uri "${KIPRJMOD}/LKP-Core-rescue.lib")(options "")(descr ""))
 )
